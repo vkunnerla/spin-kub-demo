@@ -7,3 +7,5 @@ RUN go install github.com/spinnaker-demo/k8s-demo
 ADD ./content /content
 
 ENTRYPOINT /go/bin/k8s-demo
+
+# end of docker file
