@@ -8,4 +8,4 @@ ADD ./content /content
 
 ENTRYPOINT /go/bin/k8s-demo
 
-# end of the spinnaker docker file for v1.0.3
+# end of the spinnaker docker file for v1.0.4
